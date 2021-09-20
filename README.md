@@ -7,8 +7,8 @@ Project Name : React-Redux-Contact-Book
 
 # Change database QueryString for connecting your own database.
 
-Firstly initialize the API $node .\Node-Express-Mongoose\server.js  
-After that start the app $cd .\React-Redux-Contact-Book\ | npm start
+$node .\Node-Express-Mongoose\server.js  
+$cd .\React-Redux-Contact-Book\ | npm start
 
 
 
