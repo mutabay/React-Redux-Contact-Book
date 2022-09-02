@@ -8,11 +8,14 @@
 <hr>
 
 
-Change database QueryString for connecting your own database.
+Change database QueryString for connecting your own database.  
 
+
+
+```
 $node .\Node-Express-Mongoose\server.js  
 $cd .\React-Redux-Contact-Book\ | npm start
-
+```
 
 <hr>
 
